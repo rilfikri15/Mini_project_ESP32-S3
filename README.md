@@ -12,4 +12,4 @@
 5.  **POTENSIOMETER (POT)** (Input Analog) - Pin 7
 
 ## Dokumentasi
-![Konfigurasi Komponen Pada Mini Project](assets/dokumentasi.png)
+![Konfigurasi Komponen Pada Mini Project](asset/dokumentasi.png)
