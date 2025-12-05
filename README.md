@@ -9,7 +9,7 @@
 2.  **BUZZER** - Pin 17
 3.  **BUTTON** - Pin 10
 4.  **OLED Display** Pin 5 (SDA), 4 (SCL)
-5.  **POTENSIOMETER (POT)** (Input Analog) - Pin 7
+5.  **POTENSIOMETER (POT)** - Pin 7
 
 ## Dokumentasi
 ![Konfigurasi Komponen Pada Mini Project](asset/dokumentasi.png)
