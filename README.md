@@ -1,5 +1,5 @@
-# MINI-PROJECT-ESP32-S3 - Embedded System Deteksi Kebocoran Gas
-**Nama:** Muhamad Beril Fikri Widjaya, Muhammad Alfarrel Arya Mahardika
+# MINI-PROJECT-ESP32-S3 | Embedded System Deteksi Kebocoran Gas
+**Nama:** Muhamad Beril Fikri Widjaya, Muhammad Alfarrel Arya Mahardika     
 **NRP:** 3223600013, 3223600017  
 
 
